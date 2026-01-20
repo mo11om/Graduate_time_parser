@@ -1,6 +1,8 @@
 # University System of Taiwan Graduate_time parser
 
-2020-11-13 : fix some link bug
+2024-10-18: 修改交大的 link (僅適用111年(含)以前)
+
+2020-11-13: fix some link bug
 
 2018-8-23 update: 支援顯示口試日期
 
